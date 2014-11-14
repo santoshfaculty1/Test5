@@ -11,5 +11,4 @@ public class Test5 {
     }
     public void push(Object o){}
     public Object pop(){}
-
 }
